@@ -56,6 +56,8 @@ content generation scenarios:
 4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
 5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
 
+## Prompt:
+
 ```
 Act as an expert academic report writer, environmental researcher, sustainability analyst, data visualizer, and presentation designer.
 
